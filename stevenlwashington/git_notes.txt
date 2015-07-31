@@ -1,0 +1,16 @@
+git config get and set repository or global options
+git init create an empty Git repository or reinitialize an existing one
+git add <file> adds any changes inside <file> to the staging area
+git commit -m '<message>' commits the staging area to the repository using <message>
+git checkout switch branches or restore working tree files
+git branch list, create or delete branches
+git status show working tree status; do this often
+git clone clone a repo into a new directory
+git merge join two or more development histories together
+git pull fetch from and integrate with another repository or a local branch
+git push update remote refs along with associated objects
+git remote manage set of tracked repositories
+git log show commit log
+branching allows me to conveniently work on multiple versions of code at once, and git makes branching really easy
+head a reference to the last commit in the current checked out branch
+master the default branch name
