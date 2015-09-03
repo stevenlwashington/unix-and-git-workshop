@@ -1,1 +1,13 @@
-this is a review pr
+cd <path> changes the working directory to <path>
+cd / takes me to the Root
+ls <path> lists the directory of content <path>
+-t flag will return the most recently modified items first
+pwd shows the present working directory
+man <path> will list the manual for the specified command
+<path> | <path> can be used to leverage the output of one comand as the input to another
+> will take an output and write it to a file. if one does not exist, a file will be created ie) history > filename.txt
+>> will add the output to the file instead of replacing it
+mv will move a file from directory to another; can essentially move files from place to place in file system. this command may also be used to rename files
+A repository is a collection of all versions of a project: who, what, when, etc. Also includes a collection of commits describing changes to my project as I work
+Commit or committing is the act of telling the VCS that a version is finished
+VCS provides a set of tools to review history and ways to share/collaborate with others and keep track of all changes
